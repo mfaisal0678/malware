@@ -1,0 +1,4 @@
+292b2e6bb027cd4ff4d24e338f5c48de
+dda37961870ce079defbf185eeeef905 Trojan-Ransom.Win32.Locky.abfl
+3fa86717650a17d075d856a41b3874265f8e9eab Trojan-Ransom.Win32.Locky.abfl
+c35f705df9e475305c0984b05991d444450809c35dd1d96106bb8e7128b9082f Trojan-Ransom.Win32.Locky.abfl
